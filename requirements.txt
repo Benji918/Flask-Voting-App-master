@@ -10,6 +10,7 @@ colorama==0.4.5
 cryptography==37.0.4
 Deprecated==1.2.13
 dominate==2.7.0
+email-validator==1.1.1
 Flask==2.2.2
 Flask-Bootstrap==3.3.7.1
 Flask-CKEditor==0.4.6
@@ -23,6 +24,7 @@ h11==0.13.0
 idna==3.3
 itsdangerous==2.1.2
 Jinja2==3.1.2
+jason==0.1.7
 login==0.0.6
 lxml==4.9.1
 MarkupSafe==2.1.1
